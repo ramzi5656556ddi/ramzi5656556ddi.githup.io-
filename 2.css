@@ -1,0 +1,14 @@
+body{
+     background-attachment: scroll;
+     background-image: url(.jpg) ;
+     background-position: bottom;
+     background-repeat: repeat;
+     
+     
+}
+
+p{
+     bottom: 100px;
+}
+
+
